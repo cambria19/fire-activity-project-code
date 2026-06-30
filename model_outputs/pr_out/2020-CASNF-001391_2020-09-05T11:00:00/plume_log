@@ -1,0 +1,18 @@
+Freitas model log:
+ Model parameters set by the user in the plume_namelist file:
+ Heat flux:   15.6937799    
+ Burned area:   1789874.62    
+ mAGL:   2153.95190    
+ Wind effects on/off:           1
+ Entrainment constant:   9.99999978E-03
+ Fuel moisture:   10.0000000    
+ 
+ 
+ Reading in the environmental input file
+ Initializing the fire properties...
+ Executing the plume rise simulation...
+ Writing final output for simulation
+  burnt_area (ha) - top cloud(km)- power (W m^2)
+   178.987457       1.00000000       15693.7803    
+
+Warning/error messages:
