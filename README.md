@@ -1,7 +1,7 @@
 ## Overview
 This repository contains the code used to develop the long-term wildfire activity dataset for California as part of the results and findings from: 
 
-Drivers of Intensifying Wildfire Activity and Taller Wildfire Plumes Across California: Past Trends and Future Projections
+"Drivers of Intensifying Wildfire Activity and Taller Wildfire Plumes Across California: Past Trends and Future Projections"
 
 The code for the modeling framework outlined in the study is provided for a sample wildfire event, the 2020 Creek Fire. The Creek Fire occurred during California’s record-breaking 2020 fire season and also resulted in the development of pyrocumulonimbus. As described in the study, the modeling framework comprises the First Order Fire Effects Model (FOFEM) (Reinhardt et al., 1997) and a plume rise model developed in (Freitas et al., 2007, 2010). The creation of model inputs, initialization of model runs, and the processing of model outputs is included for each model used. Visualizations of key model outputs are also included.
 
